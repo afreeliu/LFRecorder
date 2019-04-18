@@ -8,4 +8,8 @@ target 'XCRecord' do
   # Pods for XCRecord
 	pod 'FMDB'
 	pod 'Masonry'
+	pod 'QTEventBus'
+	pod 'QTEventBus/AppModule'
+	pod 'QTEventBus/UIKit'
+
 end
